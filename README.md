@@ -50,7 +50,10 @@ storyboard custom class를 정합니다
 [_scrollView appendImageView:image];
 ```
 
-Example에 샘플 코드 있습니다.
+프로젝트 내에 WebtoonViewerController2를 참조바랍니다
+
+
+
 
 
 
