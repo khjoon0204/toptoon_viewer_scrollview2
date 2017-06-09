@@ -23,7 +23,7 @@ libToptoonViewerScrollView.a 와 ToptoonViewerScrollView.h 파일을 프로젝�
 
 storyboard custom class를 정합니다
 
-![]()
+![](https://github.com/khjoon0204/toptoon_viewer_scrollview2/blob/master/storyboardcustomclass.png)
 
 시작코드 예시
 
